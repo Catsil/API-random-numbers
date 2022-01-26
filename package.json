@@ -1,0 +1,22 @@
+{
+  "name": "api-random-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Catsil/API-random-numbers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Catsil/API-random-numbers/issues"
+  },
+  "homepage": "https://github.com/Catsil/API-random-numbers#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
